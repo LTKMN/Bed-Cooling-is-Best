@@ -22,4 +22,4 @@ The options are:
 Personally, I'm in favor of cheap + safe + easy.
 
 - IPA flush, 100% distilled water
-- eth. glycol mix in low percentages shouldn't rob us of too much thermal performance.
+- eth. glycol mix in low percentages shouldn't rob us of too much thermal performance. I don't have kids or pets so as long as I can keep myself from drinking The Forbidden Gatorade, it should be okay.
