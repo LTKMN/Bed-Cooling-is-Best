@@ -11,6 +11,8 @@ In the US and perhaps Europe there's commercial PC loop concentrates that are ch
 
 Weirdly, in Canada, they're crazy expensive to get your hands on, so I'm looking for some cheap third party method and if that happens to work better for people who also can't import the fancy branded stuff, all the better.
 
+(For example, [this](https://www.newegg.ca/p/1B4-01S8-00012) stuff is $13 USD and $43 CAD + shipping and duty)
+
 The options are:
 
 - ethelyne glycol (antifreeze): cheap and commonplace, won't corrode, used in cars, 30% EG = 10% lost heat capacity of the fluid, and people seem to run it at 10-20% for loops. TOXIC TO INGEST (think of kids and pets here, it's also sweet which doesn't help)
