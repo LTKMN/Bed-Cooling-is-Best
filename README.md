@@ -38,6 +38,10 @@ THE ADVANTAGES
 - a similar A/C unit is $300-500, mine is roughly the same for now, but I suspect we can design improvements there and if manufactured at scale, immense design gains to be made. It's physically much much simpler with few moving parts.
 - as mentioned above, the A/C unit actually does very little for sleep comfort itself. So now you have this loud, annoying, energy-sucking thing you're paying on your power bill for and the world is paying on it's nature bill for, for nothing.
 
+So if you're in direct contact with a cooling mat, and that fluid is constantly being pumped away, you get a very efficient transfer of energy away from exactly the place you need it gone from.
+
+You can sleep under the blankets, sleep better overall, use much less electricity which then requires a much smaller unit that makes far less noise, it's a win-win-win.
+
 Save yourself. Sleep Better. Save the planet.
 
 OKAY BRENNAN, YOU JUST DESIGNED A CHILIPAD, SO WHAT
