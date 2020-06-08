@@ -2,7 +2,7 @@
 building a DIY bed cooling contraption and saving the world. a manifesto in production.
 
 
-WHY COOL YOUR BED
+# WHY COOL YOUR BED
 
 Did you know the US uses more electricity on cooling alone than Africa does in total? Cooling uses about 10% of the world's electricity and / because it's generally wildly inefficient.
 
@@ -30,7 +30,7 @@ So we know where the energy is, and we know that cooling the air is inefficient 
 
 Let's cool the bed.
 
-THE ADVANTAGES
+# THE ADVANTAGES
 
 - a 10,000 BTU A/C unit like you find at Home Depot is about 1220 watts to run. Mine takes about 40 watts (so far untested, will revise with real numbers).
 - the A/C unit is incredibly loud and annoying, like running a lawnmower in your bedroom. Mine is (insert data here) almost inaudible.
@@ -44,7 +44,7 @@ You can sleep under the blankets, sleep better overall, use much less electricit
 
 Save yourself. Sleep Better. Save the planet.
 
-OKAY BRENNAN, YOU JUST DESIGNED A CHILIPAD, SO WHAT
+# OKAY BRENNAN, YOU JUST DESIGNED A CHILIPAD, SO WHAT
 
 Yes, they've been invented, this is how I started along this whole path. I bought one.
 
