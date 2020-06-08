@@ -18,6 +18,7 @@ The options are:
 - copper sulfate: blue powder salt, dissolve in de-ionized water at 225ppm. cheap-ish on amazon. could be hard for inexperienced users to be doing chemistry safely.
 - just don't do anything. distilled water, make sure you're clean about it, you dump it at the end of summer anyway.
 - if you want to run 100% distilled water, you can possibly use IPA first as a big disinfecting flush, but not as a fluid (has bad heat capcity itself) and depending on the components of the loop, should be safe from eating plastics.
+- non-fluid methods like silver caps: https://www.performance-pcs.com/water-cooling/fittings-connectors/monsoon-silver-bullet-antimicrobial-g1-4-plug-black-chrome-mon-sbp-bc.html
 
 Personally, I'm in favor of cheap + safe + easy.
 
