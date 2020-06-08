@@ -5,7 +5,7 @@ In the teardown of the 'real' hardware (https://www.ifixit.com/Teardown/ChiliTec
 
 ![image of fan](https://d3nevzfk7ii3be.cloudfront.net/igi/W436HTeU6ZGASVZe.medium)
 
-The cheapest PC fan known to man. You can see the blades run parallel to the arms, which creates a buffetting sound - quieter performance fans will curve the blades to reduce that parallelism and counter-rotate the arms altogether.
+The cheapest PC fan known to man. You can see the blades run parallel to the arms, which creates a buffeting sound - quieter performance fans will curve the blades to reduce that parallelism and counter-rotate the arms altogether.
 
 ![image of pump](https://d3nevzfk7ii3be.cloudfront.net/igi/mXwCiVjMSw44Hxso.huge)
 
