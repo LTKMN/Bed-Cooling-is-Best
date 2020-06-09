@@ -27,7 +27,7 @@ The other big big one here is that I'm using my existing Chili mattress pad for 
 
 I also intend to 3D print some custom fittings as a go-between of the proprietary plumbing and the generic PC 10/16mm tubing. I think these spurs exist if you go to any hardware store and just cut the head off / ziptie fittings directly into the existing tubes. I happen to have a printer and I'll upload any 3D models I make, but I don't think it's a requirement.
 
-![image of printed part](https://imgur.com/a/r0BXobq)
+![image of printed part](https://i.imgur.com/g5KOZfT.png)
 
 * * * * *
 
