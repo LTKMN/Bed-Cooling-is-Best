@@ -21,7 +21,7 @@ PIPES AND FITTINGS
 - DarkSide 3/8"ID - 5/8"OD Straight Compression Fitting (x6)
 - Ultra Clear Tubing (3/8 - 5/8) 10/16mm Tubing (10 feet)
 
-And I'm using a PC power supply for now because that happens to be easy and stable for bench testing. Eventually I'll choose a 12V / 5V power adapater and solder whatever end is required onto that, depending on the pump and system chosen.
+And I'm using a PC power supply for now because that happens to be easy and stable for bench testing. Eventually I'll choose a 12V / 5V power adapter and solder whatever end is required onto that, depending on the pump and system chosen.
 
 The other big big one here is that I'm using my existing Chili mattress pad for the actual mattress side interface. I'm not a huge fan of it, it's an older design, so I'm curious to buy one of the newer ones and see if they're more recommendable and/or design my own in a DIY fashion such that we don't need to buy them at all. The good news is, you can buy the mat without buying the unit so they are just an off-the-shelf part like any other, if at the expense of being part of their proprietary system pricing.
 
