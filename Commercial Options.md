@@ -16,8 +16,14 @@ I chatted with the owner once, trying to bulk-buy the mattress pads themselves (
 
 EIGHT SLEEP
 
-The upscale version. [Their pad](https://www.eightsleep.com/product/pod-pro-cover/) is $1750 and is clearly marketing themselves to the upper class Peloton crowd. "Elite performance for your sleep" and so on. That's cool. I just think it's out of reach for most, and there's seemingly nothing physically better to differentiate their product - we know we can buy top-tier hardware for a couple hundred bucks, so their COGS can't be that high. Nice margins, I assume.
+The upscale version. [Their pad](https://www.eightsleep.com/product/pod-pro-cover/) is $1750 (although reviews in 2021 mention $1400?) and is clearly marketing themselves to the upper class Peloton crowd. "Elite performance for your sleep" and so on. That's cool. I just think it's out of reach for most, and there's seemingly nothing physically better to differentiate their product - we know we can buy top-tier pump hardware for a couple hundred bucks, but they're also adding things like lots of high end custom plastic injection parts, features like vibration alarms in the mattress, marketing budgets, etc. Watching review videos, the unit looks like a Dyson. It's plastic but like, the nice plastic?
 
-I'd be really curious to try it out, specifically their mat looks nicer. I'm told the app isn't too great, but as far as I know they're the only ones who even have an app, so that's _something_. They're trying to do smart controls and responsive temps to keep you in a good sleep zone, which is the goal.
+I did notice that their pad looks very flexible when people sit on the bed (because of the grid holes maybe? they allow space for the flex?) but is still a vinyl sandwich grid inside like all the others, albiet with seemingly huge water channels:
 
-I totally think we could do exactly this but for $500 instead. Flashy branding is the easy part.
+![image](https://user-images.githubusercontent.com/29693932/157297272-58c5643f-c38f-49a6-b022-d99a1023e555.png)
+
+Would be really curious to try it out. Seems like there's also a few generations running, so they're clearly doing R&D and learning / iterating still.
+
+I'm told the app isn't too great, but as far as I know they're the only ones who even have an app, so that's _something_. They're trying to do smart controls and responsive temps to keep you in a good sleep zone, which is the goal. Requiring wifi is meh in my books, but their use-case isn't really off grid.
+
+I totally think we could do most of this but for $500 instead. Flashy branding is the easy part. Making material and design choices halfway between super high end and Chinesium to keep COGS lower, etc. Again: there's not a lot of moving parts to these units, so a lot of what you're doing is look and feel elements. It is interesting the price jumped some time in the past year - supply chain crunch? investor pain points? who knows.
