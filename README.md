@@ -32,8 +32,8 @@ Let's cool the bed.
 
 # THE ADVANTAGES
 
-- a 10,000 BTU A/C unit like you find at Home Depot is about 1220 watts to run. Mine takes less than 10 watts. It's literally a single LED lightbulb level of energy.
-- the A/C unit is incredibly loud and annoying, like running a lawnmower in your bedroom. Mine is completely inaudible (and I'm very sensitive to these things).
+- a 10,000 BTU A/C unit like you find at Home Depot is about 1220 watts to run. Mine takes less than 10 watts. It's literally a single LED lightbulb level of energy. You could bring it camping. You could run it on those little portable solar panels in the middle of nowhere. Outfit an African village.
+- the A/C unit is incredibly loud and annoying, like running a lawnmower in your bedroom. Mine is completely inaudible (and I'm very sensitive to these things). I've found that I can run it without any fans at all with a sufficiently large radiator, so the only moving part is the pump (and it's very quiet + mechanically isolated in multiple places).
 - the A/C unit weighs 71 lbs. and takes up the size of a small fridge. They're a pain to move and require a window to vent, so they're limited in where they can be placed in the room. Mine is the size of a shoebox and weighs a mere few pounds. The heaviest part is the 4L jug of distilled water.
 - a similar A/C unit is $300-500, mine is roughly the same for now, but I suspect we can design improvements there and if manufactured at scale, immense design gains to be made. It's physically much much simpler with few moving parts.
 - as mentioned above, the A/C unit actually does very little for sleep comfort itself. So now you have this loud, annoying, energy-sucking thing you're paying on your power bill for and the world is paying on it's nature bill for, for nothing.
