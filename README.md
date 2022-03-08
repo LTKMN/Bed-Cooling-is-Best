@@ -32,9 +32,9 @@ Let's cool the bed.
 
 # THE ADVANTAGES
 
-- a 10,000 BTU A/C unit like you find at Home Depot is about 1220 watts to run. Mine takes about 40 watts (so far untested, will revise with real numbers).
-- the A/C unit is incredibly loud and annoying, like running a lawnmower in your bedroom. Mine is (insert data here) almost inaudible.
-- the A/C unit weighs 71 lbs. and takes up the size of a small fridge. They're a pain to move and require a window to vent, so they're limited in where they can be placed in the room. Mine is the size of a shoebox and weighs (data here) like, 3 pounds. 
+- a 10,000 BTU A/C unit like you find at Home Depot is about 1220 watts to run. Mine takes less than 10 watts. It's literally a single LED lightbulb level of energy.
+- the A/C unit is incredibly loud and annoying, like running a lawnmower in your bedroom. Mine is completely inaudible (and I'm very sensitive to these things).
+- the A/C unit weighs 71 lbs. and takes up the size of a small fridge. They're a pain to move and require a window to vent, so they're limited in where they can be placed in the room. Mine is the size of a shoebox and weighs a mere few pounds. The heaviest part is the 4L jug of distilled water.
 - a similar A/C unit is $300-500, mine is roughly the same for now, but I suspect we can design improvements there and if manufactured at scale, immense design gains to be made. It's physically much much simpler with few moving parts.
 - as mentioned above, the A/C unit actually does very little for sleep comfort itself. So now you have this loud, annoying, energy-sucking thing you're paying on your power bill for and the world is paying on it's nature bill for, for nothing.
 
@@ -56,6 +56,8 @@ I think they're too loud by using cheaper fans / pumps / components. Mine has an
 
 They're also pretty dumb, the logic of the UI is from the late 90's and I think we do a disservice to ourselves and our sleep patterns to not have curves and graphs of temperature over the night rather than setting it like a thermostat in a house (precisely because the conduction is so much more effective, it can also be too aggressive when set wrong).
 
-But, on the whole, if you're reading this and want to choose between a $500 portable A/C unit and a $500 chilipad, I do totally recommend one and not the other.
+There's also Eight Sleep which are way upscale - the unit with the pad is almost $2k and the mattress is even more. And that's fine, they're basically the only players in the market and aim to be a premium product, great. But also, the margins here have to be huge. The cost of physical goods is a couple hundred bucks. They have an app, which is a step in the right direction, but I'm told it's not very good. I dunno. I've never tried it myself.
 
-That said: maybe one day I can convince you to buy my improved brennan unit, or help you DIY your own with off-the-shelf parts.
+I think there's a place for the middle class. The $300-500 Home Depot bed cooler. The hardware isn't that expensive, the electricity use is TINY, it can be dead silent and much smaller than a portable A/C unit and still more effective at actual body temp control. Sure seems like a win-win-win.
+
+So yes they exist, but it doesn't seem like anyone is aiming for this mass market. I personally think there should be one in every bed, at every price point, for every human. It seems so feasible to do.
